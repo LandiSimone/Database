@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Classifica</Data></Cell>
+			<Cell><Data ss:Type="String">Titolo</Data></Cell>
+			<Cell><Data ss:Type="String">Artista</Data></Cell>
+			<Cell><Data ss:Type="String">Voto</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Tikibombom</Data></Cell>
+			<Cell><Data ss:Type="String">Levante</Data></Cell>
+			<Cell><Data ss:Type="Number">9.1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Eden (feat. Dardust)</Data></Cell>
+			<Cell><Data ss:Type="String">Rancore</Data></Cell>
+			<Cell><Data ss:Type="Number">9.1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+			<Cell><Data ss:Type="String">Carioca</Data></Cell>
+			<Cell><Data ss:Type="String">Raphael Gualazzi</Data></Cell>
+			<Cell><Data ss:Type="Number">9.1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+			<Cell><Data ss:Type="String">Ringo Starr</Data></Cell>
+			<Cell><Data ss:Type="String">Pinguini Tattici Nucleari</Data></Cell>
+			<Cell><Data ss:Type="Number">8.5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+			<Cell><Data ss:Type="String">Fai Rumore</Data></Cell>
+			<Cell><Data ss:Type="String">Diodato</Data></Cell>
+			<Cell><Data ss:Type="Number">8.1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+			<Cell><Data ss:Type="String">Rosso di Rabbia</Data></Cell>
+			<Cell><Data ss:Type="String">Anastasio</Data></Cell>
+			<Cell><Data ss:Type="Number">7.9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+			<Cell><Data ss:Type="String">Andromeda</Data></Cell>
+			<Cell><Data ss:Type="String">Elodie</Data></Cell>
+			<Cell><Data ss:Type="Number">7.6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+			<Cell><Data ss:Type="String">Viceversa</Data></Cell>
+			<Cell><Data ss:Type="String">Francesco Gabbani</Data></Cell>
+			<Cell><Data ss:Type="Number">7.1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+			<Cell><Data ss:Type="String">Me Ne Frego</Data></Cell>
+			<Cell><Data ss:Type="String">Achille Lauro</Data></Cell>
+			<Cell><Data ss:Type="Number">6.9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+			<Cell><Data ss:Type="String">Musica (E il resto scompare)</Data></Cell>
+			<Cell><Data ss:Type="String">Elettra Lamborghini</Data></Cell>
+			<Cell><Data ss:Type="Number">6.9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+			<Cell><Data ss:Type="String">Ho Amato Tutto</Data></Cell>
+			<Cell><Data ss:Type="String">Tosca</Data></Cell>
+			<Cell><Data ss:Type="Number">6.4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+			<Cell><Data ss:Type="String">Dov'è</Data></Cell>
+			<Cell><Data ss:Type="String">Le Vibrazioni</Data></Cell>
+			<Cell><Data ss:Type="Number">6.1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+			<Cell><Data ss:Type="String">Come Mia Madre</Data></Cell>
+			<Cell><Data ss:Type="String">Giordana Angi</Data></Cell>
+			<Cell><Data ss:Type="Number">5.9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+			<Cell><Data ss:Type="String">Il Confronto</Data></Cell>
+			<Cell><Data ss:Type="String">Marco Masini</Data></Cell>
+			<Cell><Data ss:Type="Number">5.2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+			<Cell><Data ss:Type="String">Baciami Adesso</Data></Cell>
+			<Cell><Data ss:Type="String">Enrico Nigiotti</Data></Cell>
+			<Cell><Data ss:Type="Number">5.1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">16</Data></Cell>
+			<Cell><Data ss:Type="String">Finalmente Io</Data></Cell>
+			<Cell><Data ss:Type="String">Irene Grandi</Data></Cell>
+			<Cell><Data ss:Type="Number">5.0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+			<Cell><Data ss:Type="String">Sincero (feat. Morgan)</Data></Cell>
+			<Cell><Data ss:Type="String">Bugo</Data></Cell>
+			<Cell><Data ss:Type="Number">4.8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+			<Cell><Data ss:Type="String">Nell'Estasi o nel Fango</Data></Cell>
+			<Cell><Data ss:Type="String">Michele Zarrillo</Data></Cell>
+			<Cell><Data ss:Type="Number">4.7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+			<Cell><Data ss:Type="String">Gigante</Data></Cell>
+			<Cell><Data ss:Type="String">Piero Pelù</Data></Cell>
+			<Cell><Data ss:Type="Number">4.7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+			<Cell><Data ss:Type="String">NO GRAZIE</Data></Cell>
+			<Cell><Data ss:Type="String">JUNIOR CALLY</Data></Cell>
+			<Cell><Data ss:Type="Number">4.2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">21</Data></Cell>
+			<Cell><Data ss:Type="String">Niente (Resilienza 74)</Data></Cell>
+			<Cell><Data ss:Type="String">Rita Pavone</Data></Cell>
+			<Cell><Data ss:Type="Number">4.1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">22</Data></Cell>
+			<Cell><Data ss:Type="String">Lo Sappiamo Entrambi</Data></Cell>
+			<Cell><Data ss:Type="String">RIKI</Data></Cell>
+			<Cell><Data ss:Type="Number">3.9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+			<Cell><Data ss:Type="String">Il Sole ad Est</Data></Cell>
+			<Cell><Data ss:Type="String">Alberto Urso</Data></Cell>
+			<Cell><Data ss:Type="Number">3.8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+			<Cell><Data ss:Type="String">Voglio Parlarti Adesso</Data></Cell>
+			<Cell><Data ss:Type="String">Paolo Jannacci</Data></Cell>
+			<Cell><Data ss:Type="Number">3.8</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
